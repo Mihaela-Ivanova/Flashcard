@@ -13,6 +13,8 @@ This project is designed to create cards with questions and their answers.
 
 # 💻 Sorce code:
 
+https://pastebin.com/9TbVUiJ8
+
 # 📷 Screenshots:
 
 ✔️ Menu 📃
