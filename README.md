@@ -10,7 +10,7 @@
 
 # 📷 Screenshots:
 
-✔️ Menu:
+✔️ Menu 
 
 ![1](https://github.com/user-attachments/assets/48b745a3-6c2d-4076-95c4-943b493ab50b)
 
@@ -24,7 +24,7 @@
 
 ![3](https://github.com/user-attachments/assets/961d229d-ca95-477b-a14e-2e48bdc8d836)
 
-✔️ Change of questions:
+✔️ Change of questions ❔
 
 ![4](https://github.com/user-attachments/assets/91789f6a-e5f5-46bf-9a92-af52ce2fed23)
 
