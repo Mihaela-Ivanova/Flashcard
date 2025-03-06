@@ -20,7 +20,7 @@
 ![1](https://github.com/user-attachments/assets/f5ae3bdc-e3e0-47ca-b17e-7f1e7c65e0f7)
 
 
-✔️ All questions:
+✔️ All questions 📋
 
 ![3](https://github.com/user-attachments/assets/961d229d-ca95-477b-a14e-2e48bdc8d836)
 
