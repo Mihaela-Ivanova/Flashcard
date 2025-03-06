@@ -10,7 +10,7 @@
 
 # 📷 Screenshots:
 
-✔️ Menu 
+✔️ Menu 📃
 
 ![1](https://github.com/user-attachments/assets/48b745a3-6c2d-4076-95c4-943b493ab50b)
 
