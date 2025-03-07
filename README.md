@@ -13,6 +13,19 @@ This project is designed to create cards with questions and their answers.
  
 # ⚒️ System operation
 
+In the current program for developing various cards,
+objects have been created through two classes.
+In the first class, the objects of the various cards themselves with the corresponding questions and answers to them have been created.
+In the second class, the cards are recorded and stored in a dictionary to facilitate the use and organization of the information in them.
+
+From the main menu, the user can select the corresponding function of the program to:
+- create a new card with the corresponding question and answer to it
+- change an existing card
+- delete a card
+- retrieve a list of all cards already added to the dictionary
+
+Validations have been added to the code to check that the user has not entered an invalid option in the menu and to avoid other errors when executing the methods.
+
 # 💻 Sorce code:
 
 https://pastebin.com/9TbVUiJ8
