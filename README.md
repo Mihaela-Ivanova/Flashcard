@@ -9,6 +9,8 @@ This project is designed to create cards with questions and their answers.
    
 # 📋 Solution
 
+ Basic OOP concepts are used: classes, objects. Organize Python code into multiple modules and maintain clear, reusable class structures. Strictly separate individual class structures and their methods. Separate code into separate actions, relative to the main menu of the program.
+ 
 # ⚒️ System operation
 
 # 💻 Sorce code:
